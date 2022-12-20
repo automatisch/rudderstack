@@ -1,7 +1,7 @@
 databases:
   - name: rudderstack
     ipAllowList: []
-    plan: standard
+    plan: pro plus
     region: frankfurt
 
 services:
